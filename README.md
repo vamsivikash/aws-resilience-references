@@ -20,5 +20,8 @@ https://aws.amazon.com/blogs/architecture/creating-a-multi-region-application-wi
 
 https://aws.amazon.com/blogs/mt/how-to-use-resilience-hubs-fault-injection-experiments-to-test-applications-resilience/
 
+CODE SAMPLES 
+
+https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 
 
