@@ -8,4 +8,17 @@ https://www.youtube.com/watch?v=2J_Ynu0n6dY&ab_channel=NordicAPIs
 
 https://www.youtube.com/watch?v=lK_t_dhUh5I
 
+BLOG POSTS
+
+https://aws.amazon.com/blogs/architecture/lets-architect-resiliency-in-architectures/
+
+https://aws.amazon.com/blogs/architecture/lets-architect-creating-resilient-architecture/
+
+https://aws.amazon.com/blogs/compute/building-well-architected-serverless-applications-building-in-resiliency-part-1/
+
+https://aws.amazon.com/blogs/architecture/creating-a-multi-region-application-with-aws-services-part-1-compute-and-security/
+
+https://aws.amazon.com/blogs/mt/how-to-use-resilience-hubs-fault-injection-experiments-to-test-applications-resilience/
+
+
 
