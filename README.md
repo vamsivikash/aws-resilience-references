@@ -20,8 +20,15 @@ https://aws.amazon.com/blogs/architecture/creating-a-multi-region-application-wi
 
 https://aws.amazon.com/blogs/mt/how-to-use-resilience-hubs-fault-injection-experiments-to-test-applications-resilience/
 
+https://aws.amazon.com/blogs/compute/building-resilient-private-apis-using-amazon-api-gateway/
+
 CODE SAMPLES 
 
 https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
+
+SOLUTIONS LIBRARY 
+
+Deep Application Observability: https://aws.amazon.com/solutions/guidance/deep-application-observability-on-aws/?did=sl_card&trk=sl_card
+
 
 
