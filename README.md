@@ -30,5 +30,13 @@ SOLUTIONS LIBRARY
 
 Deep Application Observability: https://aws.amazon.com/solutions/guidance/deep-application-observability-on-aws/?did=sl_card&trk=sl_card
 
+CloudFront Origin Failover: https://github.com/aws-samples/cloudfront-hybrid-origin-failover
+
+ARCHITECTURE SAMPLES
+
+https://docs.aws.amazon.com/architecture-diagrams/latest/multi-region-api-gateway-with-cloudfront/multi-region-api-gateway-with-cloudfront.html
+
+
+
 
 
