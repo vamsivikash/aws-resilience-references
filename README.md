@@ -38,9 +38,9 @@ https://docs.aws.amazon.com/architecture-diagrams/latest/multi-region-api-gatewa
 
 CONTACT US 
 
-https://www.linkedin.com/in/vamsivikash/
+Vamsi Vikash - https://www.linkedin.com/in/vamsivikash/
 
-https://www.linkedin.com/in/matthewstephenhenry/
+Matt Henry - https://www.linkedin.com/in/matthewstephenhenry/
 
 
 
