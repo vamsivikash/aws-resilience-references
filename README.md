@@ -41,6 +41,10 @@ https://docs.aws.amazon.com/architecture-diagrams/latest/multi-region-api-gatewa
 
 ![ThisIsFine](https://github.com/vamsivikash/aws-resilience-references/blob/main/ThisIsFine.png)
 
+## OPERATIONAL READINESS
+
+![ReadinessChecker](https://github.com/vamsivikash/aws-resilience-references/blob/main/HealthCheckDecision.png)
+
 ### CONTACT US 
 
 Vamsi Vikash - https://www.linkedin.com/in/vamsivikash/
