@@ -40,7 +40,6 @@ https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter
 Exponential Backoff - https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
 
 
-
 ## SOLUTIONS LIBRARY 
 
 Deep Application Observability: https://aws.amazon.com/solutions/guidance/deep-application-observability-on-aws/?did=sl_card&trk=sl_card
