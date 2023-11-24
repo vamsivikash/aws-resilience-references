@@ -1,5 +1,11 @@
 # SERVERLESS RESILIENCE REFERENCES 
 
+## ARCHITECTURE SAMPLES
+
+https://docs.aws.amazon.com/architecture-diagrams/latest/multi-region-api-gateway-with-cloudfront/multi-region-api-gateway-with-cloudfront.html
+
+![ThisIsFine](https://github.com/vamsivikash/aws-resilience-references/blob/main/ThisIsFine.png)
+
 
 ## YOUTUBE VIDEOS
 
@@ -29,17 +35,17 @@ https://aws.amazon.com/blogs/compute/building-resilient-private-apis-using-amazo
 
 https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 
+## IMRPOVE RESILIENCE WITHIN A SINGLE REGION 
+
+Exponential Backoff - https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+
+
+
 ## SOLUTIONS LIBRARY 
 
 Deep Application Observability: https://aws.amazon.com/solutions/guidance/deep-application-observability-on-aws/?did=sl_card&trk=sl_card
 
 CloudFront Origin Failover: https://github.com/aws-samples/cloudfront-hybrid-origin-failover
-
-## ARCHITECTURE SAMPLES
-
-https://docs.aws.amazon.com/architecture-diagrams/latest/multi-region-api-gateway-with-cloudfront/multi-region-api-gateway-with-cloudfront.html
-
-![ThisIsFine](https://github.com/vamsivikash/aws-resilience-references/blob/main/ThisIsFine.png)
 
 ## OPERATIONAL READINESS
 
