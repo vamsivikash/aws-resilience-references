@@ -39,6 +39,7 @@ https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter
 
 Exponential Backoff - https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
 
+Multi-region Fundamentals - https://docs.aws.amazon.com/whitepapers/latest/aws-multi-region-fundamentals/aws-multi-region-fundamentals.html
 
 ## SOLUTIONS LIBRARY 
 
