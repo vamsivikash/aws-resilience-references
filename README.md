@@ -51,6 +51,10 @@ CloudFront Origin Failover: https://github.com/aws-samples/cloudfront-hybrid-ori
 
 ![ReadinessChecker](https://github.com/vamsivikash/aws-resilience-references/blob/main/HealthCheckDecision.png)
 
+## PARTNERS 
+
+Resilience Partners - https://aws.amazon.com/resilience/partners/
+
 ### CONTACT US 
 
 Vamsi Vikash - https://www.linkedin.com/in/vamsivikash/
